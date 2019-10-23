@@ -19,16 +19,16 @@
 - As said before, there are two ways you can integrate the design:
 
     1. Adding a Fragment to the XML layout where you to show the map:
-        <fragment  
+        ```<fragment  
             android:id="@+id/map_fragment" 
             android:name="com.tomtom.online.sdk.map.MapFragment"  
             android:layout_width="match_parent"  
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent" />```
     2. Adding a MapView element to the XML layout:
-        <com.tomtom.online.sdk.map.MapView  
+        ```<com.tomtom.online.sdk.map.MapView  
             android:layout_width="match_parent"  
             android:layout_height="match_parent"  
-            app:mapBackgroundColor="#0000ff"/>
+            app:mapBackgroundColor="#0000ff"/>```
 
 [Documentation - MapView initialization.](https://developer.tomtom.com/maps-sdk-android/documentation#mapview-initialization)
 
