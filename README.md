@@ -20,17 +20,17 @@
 
     1. Adding a Fragment to the XML layout where you to show the map:
 
-         ` <fragment  
-                android:id="@+id/map_fragment"  
-                android:name="com.tomtom.online.sdk.map.MapFragment"  
-                android:layout_width="match_parent"  
+         ` <fragment\  
+                android:id="@+id/map_fragment"\  
+                android:name="com.tomtom.online.sdk.map.MapFragment"\  
+                android:layout_width="match_parent"\  
                 android:layout_height="match_parent" /> `
 
     2. Adding a MapView element to the XML layout:
 
-        ` <com.tomtom.online.sdk.map.MapView  
-                android:layout_width="match_parent"  
-                android:layout_height="match_parent"  
+        ` <com.tomtom.online.sdk.map.MapView\  
+                android:layout_width="match_parent"\  
+                android:layout_height="match_parent"\  
                 app:mapBackgroundColor="#0000ff"/> `
 
 
