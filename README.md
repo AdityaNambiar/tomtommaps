@@ -1,5 +1,5 @@
 # Tomtommaps Android Miniproject.
-    There are few things that the "Getting started" documentation makes abstract or does not clarify, for beginners who happen to have never used the Google maps SDK either.
+    - There are few things that the "Getting started" documentation makes abstract or does not clarify, for beginners who happen to have never used the Google maps SDK either.
 
 [Getting started](https://developer.tomtom.com/maps-android-sdk/map-initialization)
 
@@ -36,6 +36,6 @@
 
 - The original documentation page uses the "MapView" object reference. - Which is what it does not specify after telling us about the MapFragment.
 
-** Note: The MapFragment and MapView class references are used interchangeably **
+**Note: The MapFragment and MapView class references are used interchangeably**
 
 - You will find a complete example in this repository that only uses MapFragment in the code and design
