@@ -32,7 +32,7 @@
                 android:layout_width="match_parent"  
                 android:layout_height="match_parent"  
                 app:mapBackgroundColor="#0000ff"/>
-                ```
+        ```
 
 [Documentation - MapView initialization.](https://developer.tomtom.com/maps-sdk-android/documentation#mapview-initialization)
 
